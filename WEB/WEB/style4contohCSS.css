@@ -1,0 +1,23 @@
+div{
+    background-color: brown;
+    width: 300px;
+    /*lebar*/
+    padding: 25px;
+    /* ruang antara konten dan border */
+    border: 25px solid navy;
+    /* garis antara padding dan marging - ukuran style color */
+    margin: 25px
+}
+.pc{
+    border-style: dotted;
+    text-align: center;
+    background-color: deeppink;
+}
+#pid{
+    border-style: dotted dashed solid double;
+    /* atas kanan bawah kiri */
+    color: red;
+}
+h2,p{
+    text-align: center;
+}
